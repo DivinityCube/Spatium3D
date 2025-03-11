@@ -14,4 +14,4 @@ There is an internal build number (e.g. 1.2.345), however, only the first two nu
 Spatium3D will use high-performance, efficient algorithms to ensure that it runs well no matter the processing power. That being said, I have no plans of bringing this to mobile or VR platforms. I plan to get features relating to modelling and rendering (such as rigging and shaders) done by One's full release. Scanning will come in a future version.
 
 # Release Date
-I plan to have Spatium3D One released in March 2025.
+I plan to have Spatium3D One released in April 2025.
